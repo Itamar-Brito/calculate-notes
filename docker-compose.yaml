@@ -1,0 +1,16 @@
+version:  "3.8"
+
+services:
+  php:
+    build: ".docker"
+    container_name: 'dojo'
+    volumes:
+      - .:/var/www
+    ports:
+      - "9001:9000"
+    networks:
+      - dojo
+
+networks:
+  dojo:
+    driver: bridge
