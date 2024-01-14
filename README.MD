@@ -16,10 +16,6 @@
 
 ## Problem
 Caixa Eletrônico
-Gostei! Vamos usar esse!
-Não gostei! Mostre-me outro.
-
-Este problema foi utilizado em 1982 Dojo(s).
 
 Desenvolva um programa que simule a entrega de notas quando um cliente efetuar um saque em um caixa eletrônico. Os requisitos básicos são os seguintes:
 
