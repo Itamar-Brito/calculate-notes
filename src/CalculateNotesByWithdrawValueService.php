@@ -8,7 +8,7 @@ class CalculateNotesByWithdrawValueService
     private $remantValue;
 
     private $notes = [
-        'notes100' => 0,
+        'notes100'=> 0,
         'notes50' => 0,
         'notes20' => 0,
         'notes10' => 0,
